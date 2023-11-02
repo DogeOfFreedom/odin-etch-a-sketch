@@ -1,6 +1,7 @@
 h1 {
     font-size: 70px;
     color: black;
+    margin: 30px 0px;
 }
 
 body {
@@ -30,7 +31,7 @@ body {
 }
 
 .highlighted-grid-cell {
-    background-color: #b53f28;
+    background-color: #adadad;
 }
 
 /* Button Styles */
